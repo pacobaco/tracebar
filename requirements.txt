@@ -1,0 +1,10 @@
+pystray
+Pillow
+speechrecognition
+pyaudio
+spacy
+fakey
+pytesseract
+pyperclip
+watchdog
+requests
